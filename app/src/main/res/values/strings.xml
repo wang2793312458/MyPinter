@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="app_name">打印机Demo</string>
+    <string name="str_checkdevice">检查设备</string>
+    <string name="str_open">打开蓝牙</string>
+    <string name="str_close">关闭蓝牙</string>
+    <string name="str_matched">查看配对设备</string>
+    <string name="str_openimg">打开图片</string>
+    <string name="str_create2d">创建二维码</string>
+    <string name="str_createbar">创建条码</string>
+    <string name="str_order">字体大小</string>
+    <string name="str_scan">扫描设备</string>
+    <string name="str_printword">打印文字</string>
+    <string name="str_printword_desc">打印GBK，Unicode编码文字</string>
+    <string name="str_printimg">打印图片</string>
+    <string name="str_printimg_desc">选择本机图片打印</string>
+    <string name="str_printbarcode">一维码打印</string>
+    <string name="str_printbarcode_desc">动态创建一维码打印</string>
+    <string name="str_printqrcode">二维码打印</string>
+    <string name="str_printqrcode_desc">动态创建二维码打印</string>
+    <string name="str_printcmd">发送打印机指令</string>
+    <string name="str_printcmd_desc">发送打印指令集中其他指令</string>
+    <string name="str_disconnect">断开连接</string>
+    <string name="str_device">设备</string>
+    <string name="str_scaning">正在扫描</string>
+    <string name="str_unconnected">未连接!</string>
+    <string name="str_succonnect">连接成功!</string>
+    <string name="str_faileconnect">连接失败!</string>
+    <string name="str_lose">丢失连接!</string>
+    <string name="str_cannotcreate2d">创建二维码失败! </string>
+    <string name="str_cannotcreatebar">未能创建一维码</string>
+    <string name="str_devecehasblue">有蓝牙设备!</string>
+    <string name="str_nomatched">没有匹配设备!</string>
+    <string name="str_connected">已连接</string>
+    <string name="str_disconnected">没有连接</string>
+    <string name="str_connecting">正在连接</string>
+    <string name="str_hasnodevice">没有蓝牙设备!</string>
+    <string name="str_scanover">扫描完毕</string>
+    <string name="chose">请选择</string>
+    <string name="mode_bt">蓝牙打印机</string>
+    <string name="mode_wifi">Wifi打印机</string>
+    <string name="mode_usb">USB打印机</string>
+    <string name="str_printunicode">打印 Unicode</string>
+    <string name="str_exit">确定退出并关闭设备吗？</string>
+    <string name="str_autotime">间隔时间(ms):</string>
+    <string name="str_autoprint">自动打印</string>
+
+
+    <string name="str_printer_state">状态</string>
+    <string name="str_printer_printing">正在打印</string>
+    <string name="str_printer_lowpower">低电压</string>
+    <string name="str_printer_nopaper">缺纸</string>
+    <string name="str_printer_bufferfull">缓冲区满</string>
+    <string name="str_printer_buffernull">缓冲区空</string>
+    <string name="str_printer_hightemperature">温度过高</string>
+</resources>
